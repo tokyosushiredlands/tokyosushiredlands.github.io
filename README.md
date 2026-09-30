@@ -33,7 +33,7 @@ These rarely change, so they're written straight into the pages. If they do chan
 
 ## Live site
 
-The site is published with GitHub Pages at **https://readtheterms.github.io/tokyo-sushi/**, from the `main` branch of the `readtheterms/tokyo-sushi` repository. This `version-2` folder is that repository.
+The site is published with GitHub Pages at **https://tokyosushiredlands.github.io/**, from the `main` branch of the `tokyosushiredlands/tokyosushiredlands.github.io` repository. This `version-2` folder is that repository.
 
 **To update the live site** after editing files here, run these in this folder (or ask Claude to publish the changes):
 
@@ -45,6 +45,6 @@ git push
 
 The live site updates a minute or two after the push.
 
-**Custom domain:** to use your own domain (like `tokyosushiredlands.com`), add it on GitHub under **Settings → Pages → Custom domain** and follow GitHub's instructions for your domain registrar. Then replace `https://readtheterms.github.io/tokyo-sushi/` with the new address in the `"@type": "Restaurant"` block in `index.html` and `contact.html`.
+**Custom domain:** to use your own domain (like `tokyosushiredlands.com`), add it on GitHub under **Settings → Pages → Custom domain** and follow GitHub's instructions for your domain registrar. Then replace `https://tokyosushiredlands.github.io/` with the new address in the `"@type": "Restaurant"` block in `index.html` and `contact.html`.
 
 Add the site's address to your Google Business Profile, Instagram bio and Yelp page so customers can find it.
